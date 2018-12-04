@@ -1,0 +1,9 @@
+programming-language: python3
+intents:
+  pools:
+    slots:
+       - id: question1
+         question: 학습시키고 싶은 말은?
+            
+
+              
