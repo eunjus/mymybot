@@ -1,12 +1,12 @@
 # mymybot
 세종대왕봇
 
-신조어와 순화대상어(외래어)를 인식하여 관련된 정보를 제공하고, 친구와 대화하듯 일상대화와 자체학습이 가능한 인공지능 챗봇\n
+신조어와 순화대상어(외래어)를 인식하여 관련된 정보를 제공하고, 친구와 대화하듯 일상대화와 자체학습이 가능한 인공지능 챗봇
 
 # 개발환경
--window 10 (x64)
--IBM Watson Bluemix
--Python 3.6
+-window 10 (x64) \n
+-IBM Watson Bluemix \n
+-Python 3.6 \n
 -Bothub Studio(Chatbot hosting service)
 -Telegram
 
